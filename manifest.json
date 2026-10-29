@@ -1,0 +1,10 @@
+{
+  "name": "Roleta Lab — Analisador",
+  "short_name": "Roleta Lab",
+  "description": "Histórico e estatísticas descritivas de roleta",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080d14",
+  "theme_color": "#080d14",
+  "lang": "pt-BR"
+}
